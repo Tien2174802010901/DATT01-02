@@ -1,4 +1,0 @@
-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
-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
-
-streamlit run AI_ChatBot.py
